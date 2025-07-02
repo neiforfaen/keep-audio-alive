@@ -4,7 +4,7 @@
   "description": "A simple electron application to keep audio devices alive and prevent the annoying audio pops",
   "main": "./out/main/index.js",
   "author": "Estella",
-  "homepage": "https://github.com/TarnishedStella/keep-audio-alive",
+  "homepage": "https://github.com/neiforfaen/keep-audio-alive",
   "packageManager": "yarn@4.4.1",
   "scripts": {
     "format": "prettier --write .",

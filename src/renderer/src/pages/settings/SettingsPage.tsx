@@ -14,7 +14,7 @@ import {
 import { useNavigate } from '@tanstack/react-router';
 import { ArrowLeftIcon } from '@radix-ui/react-icons';
 
-const idleTimes = [5, 10, 15, 30, 60]; // Idle detection times in minutes
+const idleTimes = [2, 5, 10, 15, 30, 60]; // Idle detection times in minutes
 
 // interface Props {}
 
